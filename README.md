@@ -9,8 +9,8 @@ O território Matopiba foi instituído pelo Governo Federal, em 2015, e integra 
 # Referência
 
 ```bibtex
-SANTOS, L. F. dos; CERQUEIRA, C. A. de; FERRAZ, M. I. F.; JESUS, C. M. de. ESTRUTURA FUNDIÁRIA DO MARANHÃO, TOCANTINS, PIAUÍ E BAHIA (MATOPIBA):
-O ÍNDICE DE GINI TERRAS NOS ANOS 2000. Caminhos de Geografia, Uberlândia, v. 24, n. 92, p. 42–56, 2023.
+SANTOS, L. F. dos; CERQUEIRA, C. A. de; FERRAZ, M. I. F.; JESUS, C. M. de. ESTRUTURA FUNDIÁRIA DO MARANHÃO, TOCANTINS,
+PIAUÍ E BAHIA (MATOPIBA): O ÍNDICE DE GINI TERRAS NOS ANOS 2000. Caminhos de Geografia, Uberlândia, v. 24, n. 92, p. 42–56, 2023.
 DOI: 10.14393/RCG249262813.
 Disponível em: https://seer.ufu.br/index.php/caminhosdegeografia/article/view/62813. Acesso em: 28 set. 2024.
 ```
